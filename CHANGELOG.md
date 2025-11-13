@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Guilherme26BC/gs-0-talent-platform/compare/v1.0.0...v1.0.1) (2025-11-13)
+
+
+### Bug Fixes
+
+* readme.md ([9ae0f31](https://github.com/Guilherme26BC/gs-0-talent-platform/commit/9ae0f31de5ea5ff262bbe04730c3f321e8038687))
+
 ## 1.0.0 (2025-11-13)
 
 
