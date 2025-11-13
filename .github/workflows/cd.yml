@@ -21,4 +21,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: guibezerra/guibezerra/gs-0-talent-platform:latest
+          tags: guibezerra/gs-0-talent-platform:latest
